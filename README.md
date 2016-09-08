@@ -4,6 +4,7 @@ This is a pure Tensorflow implemenation of the network described in the paper: A
 Paper URL: http://arxiv.org/abs/1509.05429v1 
 
 A couple of notes: 
+
 1. main.py is the starting point for executing the model (usage: python main.py) 
 
 2. You need to populate the directory data/jpeg_redundant_f160 with the f160 images 
