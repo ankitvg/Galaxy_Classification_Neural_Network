@@ -15,3 +15,6 @@ A couple of notes:
 
 5. After training, saved models are placed in the ./models directory and reporting along the way is stored in ./report
 
+
+P.S.: The paper and presentation we made for this project is also uploaded. Check it out :)
+
