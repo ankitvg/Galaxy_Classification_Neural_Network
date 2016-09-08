@@ -13,3 +13,4 @@ A couple of notes:
 4. Also, there isn't a standard max-out layer in tensorflow, which is what the paper reccomends for the fully connected layers, so I use standard ReLU. This should be changed in the future sometime. 
 
 5. After training, saved models are placed in the ./models directory and reporting along the way is stored in ./report
+
